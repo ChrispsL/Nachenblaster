@@ -1,0 +1,10 @@
+﻿  StudentWorld.cpp
+c:\users\voidc\documents\classes\cs32\nachenblaster\nachenblaster\studentworld.cpp(37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\voidc\documents\classes\cs32\nachenblaster\nachenblaster\studentworld.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\voidc\documents\classes\cs32\nachenblaster\nachenblaster\studentworld.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\voidc\documents\classes\cs32\nachenblaster\nachenblaster\studentworld.cpp(85): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Actor.cpp
+c:\users\voidc\documents\classes\cs32\nachenblaster\nachenblaster\actor.cpp(78): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\voidc\documents\classes\cs32\nachenblaster\nachenblaster\actor.cpp(290): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  NachenBlaster.vcxproj -> C:\Users\voidc\Documents\Classes\CS32\NachenBlaster\Debug\NachenBlaster.exe
